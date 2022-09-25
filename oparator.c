@@ -7,6 +7,6 @@ int main() {
     printf(" %d", number1 + number2);
     printf(" %d", number1 - number2);
     printf(" %d", number1 * number2);
-    printf(" %d /n", number1 / number2);
+    printf(" %d", number1 / number2);
     return 0;
 }
