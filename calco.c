@@ -7,6 +7,6 @@ int main() {
     printf("Plus Ecuation = %d\n", number1 + number2);
     printf("MUnus Ecution = %d\n", number1 - number2);
     printf("Ecutlo Ecution = %d\n", number1 * number2);
-    printf("Diveite Ecution =%d\n", number1 / number2);
+    printf("Diveite Ecution = %d\n", number1 / number2);
     return 0;
 }
