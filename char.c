@@ -7,4 +7,5 @@ int main() {
     ch = 'y';
     printf("char %c\n",ch);
     return 0;
+    
     }
