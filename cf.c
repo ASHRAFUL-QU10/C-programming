@@ -6,3 +6,4 @@ int main() {
     f = 1.8 * c + 32;
     printf("%lf\n", f);
     return 0;
+}
