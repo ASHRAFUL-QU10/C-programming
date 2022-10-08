@@ -1,2 +1,5 @@
 c programming for beginners.
-Author : Muhammad Ashraful islam sourv.(Muhammad ashraful q10)
+
+Author : Muhammad Ashraful islam sourv.(https://github.com/ASHRAFUL-QU10).
+
+Website: https://t.co/BP9uzsmTvA
