@@ -8,6 +8,5 @@ int main() {
         printf("%d\n", n);
         n = n + 1;
     }
-    
     return 0;
 }
