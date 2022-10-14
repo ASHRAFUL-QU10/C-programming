@@ -1,5 +1,5 @@
 # include<stdio.h>
-
+// Diveide 3 & 5
 int main() {
     int num;
     scanf("%d", &num);
