@@ -31,5 +31,4 @@ int main() {
         printf("Your result is F");
     }
     return 0;
-    
 }
