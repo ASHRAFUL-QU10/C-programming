@@ -5,27 +5,27 @@ int main() {
     scanf("%d", &marks);
     if (marks >= 80)
     {
-        printf("Your gread is A+\n");
+        printf("Your result is A+\n");
     }
     else if (marks >= 70)
     {
-        printf("Your gread is A\n");
+        printf("Your result is A\n");
     }
     else if (marks >= 60)
     {
-        printf("your gread is A-\n");
+        printf("your result is A-\n");
     }
     else if (marks >= 50)
     {
-        printf("Your gread is B\n");
+        printf("Your result is B\n");
     }
     else if (marks >= 40)
     {
-        printf("Your gread is C\n");
+        printf("Your result is C\n");
     }
     else if (marks >= 33)
     {
-        printf("YOur greade is D\n");
+        printf("YOur result is D\n");
     }
     else{
         printf("Your result id F\n");

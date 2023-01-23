@@ -28,7 +28,7 @@ int main() {
         printf("Your result is D\n");
     }
     else {
-        printf("Your result is F"\n);
+        printf("Your result is F\n");
     }
     return 0;
 }
