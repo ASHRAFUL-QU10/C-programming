@@ -5,30 +5,30 @@ int main() {
     scanf("%d", &markes);
     if (markes >= 80)
     {
-        printf("Your greade is A+\n");
+        printf("Your result is A+\n");
     }
     else if (markes >= 70)
     {
-        printf("Your greade is A\n");
+        printf("Your result is A\n");
     }
     else if (markes >= 60)
     {
-        printf("Your greade is A-\n");
+        printf("Your result is A-\n");
     }
     else if (markes >= 50)
     {
-        printf("Your grade is B\n");
+        printf("Your result is B\n");
     }
     else if (markes >= 40)
     {
-        printf("Your greade is C\n");
+        printf("Your result is C\n");
     }
     else if (markes >= 33)
     {
-        printf("Your markes is D\n");
+        printf("Your result is D\n");
     }
     else {
-        printf("Your result is F");
+        printf("Your result is F"\n);
     }
     return 0;
 }
