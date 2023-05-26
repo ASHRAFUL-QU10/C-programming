@@ -1,4 +1,4 @@
-c programming for beginners.
+c programming for basic.
 
 Author : Muhammad Ashraful islam sourv.( https://github.com/MUHAMMAD-ASHRAFUL-QU10 ).
 
